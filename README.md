@@ -10,8 +10,10 @@ __Work Matters__
 
 ---
 
-- What: docs that I find interesting or curious in some way.
-- Why: access in spite of link rots, info deluge, etc. 
-- How: I've never been affiliated with any of these organizations; all the docs come from public internet.
+__About__
+
+- _What:_ docs that I find interesting or curious in some way.
+- _Why:_ access in spite of link rot, info deluge, etc. 
+- _How:_ I've never been affiliated with any of these organizations; all the docs come from public internet.
 
 ---
