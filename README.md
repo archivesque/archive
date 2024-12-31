@@ -4,9 +4,16 @@
 
 __Work Matters__
 
-| _Title_ | _By_ | _Date_ |
-| :--- | :--- | ---: |
-| c | d | 2020 |
+| _Title_ | _By_ | _Date_ | _Link_ |
+| :--- | :--- | ---: | ---: |
+| The Gig Economy and the Future of Work | World Bank | 2024 | PDF |
+| European labor markets: Migration matters | Allianz | 2024 | PDF |
+| World Employment and Social Outlook: The role of digital labour platforms in transforming the world of work | Internationl Labour Organization | 2021 | PDF |
+| Dignity at Work and the AI Revolution | Trades Union Congress | 2021 | PDF |
+| The Amazonian Era: The gigification of work | Institute for the Future of Work | 2021 | PDF|
+| A Typology of Gig Workers in Canada | Government of Canada | 2020 | PDF |
+| Atlas der Arbeit | Deutscher Gewerkschaftsbund | 2018 | PDF |
+| Women in Tech: The Facts | National Center for Women & Technology | 2016 | PDF |
 
 ---
 
